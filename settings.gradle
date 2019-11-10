@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':basefunction:commonlibrary', 'basebusiness:sharelibrary', 'business:welcome', 'business:login_register', 'basebusiness:maplibrary'
 rootProject.name='BBLComponentFrame'
